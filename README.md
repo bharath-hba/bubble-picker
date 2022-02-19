@@ -1,4 +1,4 @@
-# react-native-bubble-picker
+# bubble-picker
 
 ## Getting started
 
