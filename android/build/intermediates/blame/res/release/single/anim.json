@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/fb6f808bd8a789b5c620be2f5f9f9440/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/fb6f808bd8a789b5c620be2f5f9f9440/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/fb6f808bd8a789b5c620be2f5f9f9440/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/fb6f808bd8a789b5c620be2f5f9f9440/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/fb6f808bd8a789b5c620be2f5f9f9440/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/fb6f808bd8a789b5c620be2f5f9f9440/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/anim/abc_slide_in_top.xml"
+    }
+]

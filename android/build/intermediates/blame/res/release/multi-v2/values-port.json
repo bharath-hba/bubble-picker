@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/handbuiltappsimac1/Documents/app/dev/DofE/app/node_modules/react-native-bubble-picker/android/build/intermediates/res/merged/release/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/handbuiltappsimac1/.gradle/caches/transforms-2/files-2.1/16f8b39a58029b1b9f408e5f18bfa35e/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bubble-picker",
+  "version": "1.0",
+  "description": "Bubble picker for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Eran Pinhas",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharath-hba/bubble-picker.git"
+  }
+}
